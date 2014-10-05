@@ -49,7 +49,7 @@ namespace ObjectDumperTests
 
             var data = new Test2Class.Test2Inner()
             {
-                Name = "Some name",
+                Name = "Some name", 
                 Value = 42
             };
 

@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectDumperTests", "ObjectDumperTests\ObjectDumperTests.csproj", "{DF964371-A92C-4333-90EB-C50EE8FA57FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectDumper", "ObjectDumper\ObjectDumper.csproj", "{F070BFB0-80B9-48C9-A6F7-A81BFBA171DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DF964371-A92C-4333-90EB-C50EE8FA57FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF964371-A92C-4333-90EB-C50EE8FA57FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF964371-A92C-4333-90EB-C50EE8FA57FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F070BFB0-80B9-48C9-A6F7-A81BFBA171DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F070BFB0-80B9-48C9-A6F7-A81BFBA171DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F070BFB0-80B9-48C9-A6F7-A81BFBA171DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F070BFB0-80B9-48C9-A6F7-A81BFBA171DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

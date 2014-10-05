@@ -57,6 +57,12 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ObjectDumper\ObjectDumper.csproj">
+      <Project>{f070bfb0-80b9-48c9-a6f7-a81bfba171db}</Project>
+      <Name>ObjectDumper</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
